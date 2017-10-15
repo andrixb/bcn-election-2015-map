@@ -1,0 +1,224 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+	color: #333;
+	-moz-osx-font-smoothing: greyscale;
+}
+
+#outer_wrapper {
+	position: absolute;
+	width: 1024px;
+	height: 768px;
+	overflow: hidden;
+	background-color: #FFD34E;
+	border: 15px solid #BD4932;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
+
+#map {
+	position: absolute;
+	left: -3%;
+	top: -31%;
+	width: 100%;
+	height: 100%;
+}
+
+svg {
+	transform: scale(0.75) translate(-193px, -280px);
+}
+
+path {
+	position: relative;
+	fill: transparent;
+	/*        stroke: red;*/
+	/*        stroke-width: 2px;*/
+	stroke: #FFFAD5;
+	stroke-width: 2px;
+	/*			stroke-dasharray: 2, 5;*/
+	opacity: 1;
+}
+
+.districts {
+	fill: none;
+}
+
+
+/*
+		
+		.districts:hover {
+			opacity: 0.7;
+			fill: red;
+		}*/
+
+#barrio_08 {
+	opacity: 0;
+}
+
+#title {
+	position: absolute;
+	left: 8%;
+	top: 5%;
+	z-index: 200;
+	overflow: hidden;
+}
+
+#title p {
+	position: relative;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	color: #FFFAD5;
+	font-size: 2.5em;
+}
+
+#w1 {
+	color: #BD4932;
+}
+
+#w2 {
+	color: #105B63;
+}
+
+#buttonHolder {
+	position: absolute;
+	width: 1024px;
+	height: 93px;
+	/* margin-left: 0%; */
+	left: 18px;
+	top: 43%;
+}
+
+.butt {
+	position: relative;
+	margin-right: 3%;
+	width: 110px;
+	height: 60px;
+	border: 5px solid #105B63;
+	border-radius: 2px;
+	float: left;
+	background-color: #FFFAD5;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+	cursor: pointer;
+}
+
+#butt01 {
+	left: 6%;
+	top: 10%;
+	z-index: 100;
+}
+
+#butt02 {
+	left: 6%;
+	top: 10%;
+	z-index: 101;
+}
+
+#butt03 {
+	left: 6%;
+	top: 10%;
+	z-index: 102;
+}
+
+#butt04 {
+	left: 6%;
+	top: 10%;
+	z-index: 103;
+}
+
+#butt05 {
+	left: 6%;
+	top: 10%;
+	z-index: 104;
+}
+
+#butt06 {
+	left: 6%;
+	top: 10%;
+	z-index: 104;
+}
+
+p {
+	position: relative;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	color: #DB9E36;
+}
+
+#p1 {
+	padding: 8%;
+	margin-top: 10%;
+}
+
+#p2 {
+	padding: 10%;
+	margin-top: 8%;
+}
+
+#p3 {
+	padding: 1%;
+	margin-top: 1%;
+}
+
+#p4 {
+	padding: 3%;
+	margin-top: 8%;
+}
+
+#p5 {
+    padding: 2%;
+    margin-top: 0%;
+}
+
+#p6 {
+	padding: 0%;
+	margin-top: 2%;
+}
+
+#mouseTips__holder {
+	position: absolute;
+    left: 0;
+    top: 90px;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    width: 100%;
+    height: 55px;
+    z-index: 300;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.toolTip {
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	line-height: 1;
+	font-weight: bold;
+	padding: 12px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	border-radius: 2px;
+	width: 839px;
+	height: 303px;
+	border: 1px solid #000;
+	z-index: 301;
+}
+
+#tt1,
+#tt2,
+#tt3,
+#tt4,
+#tt5,
+#tt6 {
+	opacity: 0;
+}
+
+@media (max-device-width: 650px) {
+	#outer_wrapper {
+		background-color: aqua !important;
+	}
+}

@@ -1,0 +1,435 @@
+[
+	
+	{
+		"party": "JxSi",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "32.21%"
+	},
+	{
+		"party": "Cs",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "14.26%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "14.05%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "13.35%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "13.35%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "9.01%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Ciutat Vella",
+		"codi": "01",
+		"percentage": "9.01%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "44.72%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "15.01%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "10.57%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "8.74%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "8.11%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "8.12%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Eixample",
+		"codi": "02",
+		"percentage": "4.28%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "46.04%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "12.14%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "14.64%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "8.09%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "8.67%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "6.20%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Gràcia",
+		"codi": "06",
+		"percentage": "3.67%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "33.23%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "18.12%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "10.64%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "13.62%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "11.16%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "9.17%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Horta-Guinardó",
+		"codi": "07",
+		"percentage": "3.53%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "42.51%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "19.94%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "7.13%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "8.33%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "5.56%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "10.83%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Les Corts",
+		"codi": "04",
+		"percentage": "5.22%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "34.01%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "18.25%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "10.31%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "13.33%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "11.47%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "8.80%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Sant Andreu",
+		"codi": "09",
+		"percentage": "3.40%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "34.27%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "18.09%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "9.93%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "13.47%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "11.58%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "8.84%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Sant Martí",
+		"codi": "10",
+		"percentage": "3.29%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "36.90%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "16.18%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "11.26%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "12.29%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "11.21%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "8.35%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Sants-Montjuïc",
+		"codi": "03",
+		"percentage": "3.35%"
+
+	},
+	{
+		"party": "JxSi",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "43.69%"
+
+	},
+	{
+		"party": "Cs",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "21.62%"
+	},
+	{
+		"party": "CUP",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "6.02%"
+
+	},
+	{
+		"party": "PSC",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "5.29%"
+
+	},
+	{
+		"party": "CSQP",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "3.72%"
+
+	},
+	{
+		"party": "PP",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "11.31%"
+
+	},
+	{
+		"party": "Others",
+		"districte": "Sarrià-Sant Gervasi",
+		"codi": "05",
+		"percentage": "4.23%"
+
+	}
+
+]
